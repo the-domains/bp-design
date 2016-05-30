@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BP Design]]></title>
         <description><![CDATA[BP Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://bp-design.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 12:38:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 13:19:52 GMT</lastBuildDate>
+        <atom:link href="http://bp-design.com.au/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f37a524c-df78-4932-b334-fcf0a884f6e9.jpg">]]></description>
+            <link>http://bp-design.com.au/elle-apartments-marketing-book/index.html</link>
+            <guid isPermaLink="false">5c29facf-a07b-46bb-b4eb-37832965266b</guid>
+            <pubDate>Mon, 30 May 2016 13:19:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a7f581-453b-4722-9023-caf435c6c702.jpg">]]></description>
-            <link>undefinedb711d914-a399-43b5-921a-4f7aa9d117fc/index.html</link>
+            <link>http://bp-design.com.au/b711d914-a399-43b5-921a-4f7aa9d117fc/index.html</link>
             <guid isPermaLink="false">b711d914-a399-43b5-921a-4f7aa9d117fc</guid>
             <pubDate>Mon, 30 May 2016 12:38:50 GMT</pubDate>
         </item>
