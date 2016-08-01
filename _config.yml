@@ -1,6 +1,6 @@
 name: BP Design
 favicon: null
-layout_spectrum: 0.26662
+layout_spectrum: 0.61355
 typography_spectrum: 0
 title: BP Design
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#a6c8e9'
+    - '#6ca1e4'
+    - '#716765'
+    - '#202022'
   brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.75
+  saturation: 0.9375
   rhythmicContrast: 0.5
 purpose: []
